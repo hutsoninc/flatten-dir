@@ -1,0 +1,26 @@
+{
+  "name": "@hutsoninc/flatten-dir",
+  "version": "1.0.0",
+  "description": "Recursively flatten a directory",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "Austin Gordon",
+    "email": "gordon.austin2@gmail.com",
+    "url": "http://www.austinleegordon.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "delete-empty": "^2.0.0",
+    "fs-extra": "^7.0.1",
+    "globby": "^9.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
