@@ -37,6 +37,10 @@ basename => {
 }
 ```
 
+## Related
+
+- [flatten-dir-cli](https://github.com/hutsoninc/flatten-dir-cli) - CLI for this module
+
 ## License
 
 MIT © [Hutson Inc](https://www.hutsoninc.com)
