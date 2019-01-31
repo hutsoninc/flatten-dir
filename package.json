@@ -14,6 +14,10 @@
     "email": "gordon.austin2@gmail.com",
     "url": "http://www.austinleegordon.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutsoninc/flatten-dir"
+  },
   "license": "MIT",
   "dependencies": {
     "delete-empty": "^2.0.0",
