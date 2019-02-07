@@ -27,9 +27,10 @@ module.exports = async (dir, opts) => {
         expandDirectories: {
             files: ['*'],
         },
+        noext: true
     });
 
-    const dirs = await globby(dir, { onlyDirectories: true });
+    const dirs = await globby(dir, { onlyDirectories: true, noext: true });
 
     for (let i = 0; i < files.length; i++) {
         let file = path.basename(files[i]);
