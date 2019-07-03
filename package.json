@@ -20,7 +20,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "delete-empty": "^2.0.0",
+    "delete-empty": "^3.0.0",
     "fs-extra": "^7.0.1",
     "globby": "^9.0.0"
   },
